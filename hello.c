@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 #include <pthread.h>
 
 void *say_hello(void *msg)
